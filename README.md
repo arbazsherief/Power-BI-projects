@@ -67,3 +67,54 @@ For any questions or inquiries, please contact [arbazsherief29@gmail.com](mailto
 ---
 
 This README provides a comprehensive overview of the HR analysis project, including how to set up the environment, run the analysis, and interpret the results using Power BI.
+
+# Power-BI-project-:2
+
+# Amazon Movies & TV Shows Dashboard using Microsoft Power BI
+
+## Project Description
+
+## Dataset Link (https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
+
+Welcome to the Amazon Movies & TV Shows Dashboard project! This repository contains the Power BI dashboard designed to analyze and visualize data related to movies and TV shows available on Amazon Prime Video.
+
+## Features
+
+- **Comprehensive Overview**: Get a holistic view of the Amazon Prime Video library, including the number of movies and TV shows, genres, and ratings.
+- **Interactive Visualizations**: Engage with interactive charts, graphs, and tables to explore data dynamically.
+- **Top-Rated Content**: Identify top-rated movies and TV shows based on user ratings and reviews.
+- **Genre Analysis**: Analyze the distribution of genres and discover the most popular genres on the platform.
+- **Trend Analysis**: Observe trends over time, such as the release year of content and its popularity.
+
+## Getting Started
+
+### Prerequisites
+
+- Microsoft Power BI Desktop: [Download Here](https://powerbi.microsoft.com/desktop/)
+- Dataset: Ensure you have the required dataset in a CSV or similar format.
+
+### Installation
+
+1. **Load the Dataset:**
+    - Open Microsoft Power BI Desktop.
+    - Load your dataset by navigating to `Home` > `Get Data` > `Text/CSV`.
+
+2. **Open the Power BI File:**
+    - Open the provided `.pbix` file in Power BI Desktop to view the pre-built dashboard.
+
+3. **Refresh Data:**
+    - Go to `Home` > `Refresh` to load the latest data into the dashboard.
+
+## Usage
+
+- Use the various filters and slicers to customize your view.
+- Click on charts and graphs to drill down into specific details.
+- Export visuals and reports as needed for presentations or further analysis.
+
+## Contact
+
+For any questions or suggestions, please contact us at [arbazsherief29@gmail.com].
+
+---
+
+Feel free to customize the description to better fit your project's specifics and requirements!
